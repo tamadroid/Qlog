@@ -1,2 +1,2 @@
 include ':qlog'
-rootProject.name = "Qlog"
+rootProject.name = "qlog"
