@@ -1,0 +1,2 @@
+include ':qlog'
+rootProject.name = "Qlog"
