@@ -1,4 +1,4 @@
-- [日本語](README_JP.md) 
+- [日本語](README_jp.md) 
 # Qlog
 Library to simplify Android Logs.
 It allows you to easily output various outputs with little or no configuration.
