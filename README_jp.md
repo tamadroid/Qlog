@@ -1,3 +1,4 @@
+- [English](README.md) 
 # Qlog
 AndroidのLogを簡単にするライブラリです。
 ほとんど設定なしに、簡単に多様な出力することができます。
